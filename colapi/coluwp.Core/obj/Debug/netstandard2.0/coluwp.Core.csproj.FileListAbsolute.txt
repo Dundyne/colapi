@@ -1,0 +1,8 @@
+C:\Users\Henri\Documents\GitHub\colapi\colapi\coluwp.Core\bin\Debug\netstandard2.0\coluwp.Core.deps.json
+C:\Users\Henri\Documents\GitHub\colapi\colapi\coluwp.Core\bin\Debug\netstandard2.0\coluwp.Core.dll
+C:\Users\Henri\Documents\GitHub\colapi\colapi\coluwp.Core\obj\Debug\netstandard2.0\coluwp.Core.csprojAssemblyReference.cache
+C:\Users\Henri\Documents\GitHub\colapi\colapi\coluwp.Core\obj\Debug\netstandard2.0\coluwp.Core.AssemblyInfoInputs.cache
+C:\Users\Henri\Documents\GitHub\colapi\colapi\coluwp.Core\obj\Debug\netstandard2.0\coluwp.Core.AssemblyInfo.cs
+C:\Users\Henri\Documents\GitHub\colapi\colapi\coluwp.Core\bin\Debug\netstandard2.0\coluwp.Core.pdb
+C:\Users\Henri\Documents\GitHub\colapi\colapi\coluwp.Core\obj\Debug\netstandard2.0\coluwp.Core.dll
+C:\Users\Henri\Documents\GitHub\colapi\colapi\coluwp.Core\obj\Debug\netstandard2.0\coluwp.Core.pdb

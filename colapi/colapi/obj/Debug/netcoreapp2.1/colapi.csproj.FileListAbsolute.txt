@@ -1,0 +1,16 @@
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\bin\Debug\netcoreapp2.1\colapi.deps.json
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\bin\Debug\netcoreapp2.1\colapi.runtimeconfig.json
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\bin\Debug\netcoreapp2.1\colapi.runtimeconfig.dev.json
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\bin\Debug\netcoreapp2.1\colapi.dll
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\obj\Debug\netcoreapp2.1\colapi.csprojAssemblyReference.cache
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\obj\Debug\netcoreapp2.1\colapi.RazorAssemblyInfo.cache
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\obj\Debug\netcoreapp2.1\colapi.RazorAssemblyInfo.cs
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\obj\Debug\netcoreapp2.1\colapi.AssemblyInfoInputs.cache
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\obj\Debug\netcoreapp2.1\colapi.AssemblyInfo.cs
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\obj\Debug\netcoreapp2.1\colapi.RazorTargetAssemblyInfo.cache
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\bin\Debug\netcoreapp2.1\colapi.pdb
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\obj\Debug\netcoreapp2.1\colapi.dll
+C:\Users\Henri\Documents\GitHub\colapi\colapi\colapi\obj\Debug\netcoreapp2.1\colapi.pdb
